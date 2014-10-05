@@ -1,5 +1,13 @@
 # Hackathon 10/2 - Data Methods and Design
 
+# Team Members
+
+* [name-of-a-team-member](URL to this member's github account)
+* [name-of-a-team-member](URL to this member's github account)
+* [name-of-a-team-member](URL to this member's github account)
+* [name-of-a-team-member](URL to this member's github account)
+* [name-of-a-team-member](URL to this member's github account)
+
 # Part 1: Data Science Fundamentals
 
 
@@ -81,4 +89,55 @@ Answer these last questions generally.
 [Response]
 
 
+# Part 2: Analyzing Your Data
+
+While there are many tools to do this analysis, we will use the JS library Gauss to accomplish this task since everyone should have used it by now.
+
+## Screenshot of Data in Gauss
+![screenshot of data in gauss](image.png?raw=true) 
+
+## Most Frequent Value
+[cut and paste command used and the output it produced]
+
+## Range of data
+[cut and paste command used and the output it produced]
+
+## Biggest Change
+[cut and paste command used and the related snippet from the output]
+
+## Shape of data
+[Describe]
+
+## Threshold
+[Value]
+
+## Percentage above/below
+[Command and output]
+
+## Yes/No + Justification
+[Answer and any images/snippets to justify]
+
+# Part 3: Project Design Exercise
+
+## Link to the device or devices you're interested in using
+* [device1](URL to this device)
+* [device2](URL to this device)
+
+## What it would measure and how?
+[Response]
+
+## Where you'd put it in the lobby?
+[Location]
+
+## What problems could threaten the validity of your data?
+[Response]
+
+## How often to sample and when to make a data dump?
+[Response]
+
+## Resulting viz.
+[Describe or link to example]
+
+## Timing trigger
+[Necessary? Why? and How?]
 
