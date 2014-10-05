@@ -1,4 +1,4 @@
-# Hackathon 10/2 - Data Methods and Design
+# Hackathon 10/6 - Data Methods and Design
 
 # Team Members
 
