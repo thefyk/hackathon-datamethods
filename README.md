@@ -15,9 +15,6 @@ CSV and will be better if the data schema will not change over time. If it does,
  3. You're starting a social networking website that helps friends choose what to do on a Friday night, and you need to be able to answer the question, "Who made the suggestion that led to the final decision?"
 
  ### Answers:
--1. [Field(s) here]
--2. [Field(s) here]
--3. [Field(s) here]
 1. Bus Identifier, routes, predicted arrival time, actual arrival time, 
 2. Teacher name, Students, Activities per student
 3. Authors, Friends, Suggestions, Final Decisions, Time
