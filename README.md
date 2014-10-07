@@ -49,23 +49,27 @@ A statement that assumes initially that there is no relationship between two mea
  Answer the following questions using this scenario: You just got a HUGE dataset from Spotify where each entry contains these fields -> [username, song, # of times played, user rating, genre]
  
  ## Q9: How would you figure out the most popular song?
+ 
 Query to find the songs associated with the most user names.
  
  ## Q10: How do you determine what genre a certain user likes the most?
+ 
 Query to find the most frequent genre of the top-rated songs of the users.
  
  ## Q11: How do we match 2 users that we think may want to share playlists?
+ 
 Find users who have rated the most songs with high ratings.
  
  ## Q12: What assumptions would you have before digging into Spotify data?  How would you test them?
 
+ The data is representative of the user and not others using their account. You could look at the correlations between ratings and songs most frequently played.
  
  ----------
  
  Answer these last questions generally.
  
  ## Q12: What is a correlation and how do you find them in a data set?
-It is the a measure of how much a change of one variable relates to a change in another variable.
+It is the a measure of how much a change of one variable depends on a change in another variable.
  
  ## Q13: How can correlations help us tell a story with our data? 
 Variables that are highly correlated can be used to find the relations between the variables.
